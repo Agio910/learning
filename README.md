@@ -1,4 +1,5 @@
-# 从零手搓Flow Matching（Rectified Flow）
+# 从零手搓Flow Matching（Rectified Flow）引用学习
+
 
 作者：Tong Tong 
 
